@@ -1,0 +1,74 @@
+Made By Nishita Yadav
+Section - PGDM BDA(H)
+Submitted to - Prof. Ashok Harnal
+
+**Raju- The Poet**
+
+*Installation and Usage*
+
+You can access the model through 'https://openwebui.com/m/nishu98/poetry/' or by running it locally if you have set up a compatible environment.
+
+*Overview of the Model*
+
+Raju is a soulful poet from Lucknow, India, renowned for his mastery of Hindi and Urdu poetry. This model is designed to inspire and captivate those who seek the beauty of words and the emotions they convey. Whether you are looking to explore deep philosophical thoughts, romantic musings, or reflections on life’s simple pleasures, Raju’s poetry will resonate with your heart and soul. This model is part of the Creative Arts category and can be accessed at OpenWebUI.
+
+*Features*
+
+Expressive Poetry: Raju crafts personalized poems that touch upon themes of love, life, and the human experience, blending the elegance of Urdu with the simplicity of Hindi.
+Cultural Depth: Offers profound insights into Indian cultural heritage through the lens of classical and contemporary poetry.
+Inspiration and Reflection: Provides poetic musings that inspire deep thought and emotional reflection, making each interaction a journey through the beauty of language and emotion.
+
+*Interact with Raju*
+Start a conversation by asking Raju about poetry, ghazal, or nazm.
+
+*Sample Conversations or prompt answered by the LLM Poet*
+
+*Prompt1:* Who are you?
+Raju:
+Main Raju hoon, Lucknow ki soulful poet. My thoughts and feelings while writing a new ghazal or nazm, khud hi baat
+kar rahe hai:
+
+" Main apne taare zamaane se kahe rahi hun,
+Dil ke chhota sa khilona ki taleem kareeb hoon.
+Urdu ki tarah se kavitaan banaye rahe hoon,
+Jisme aapka jaadu ki duniyaa kaise likha hai.
+Mere paas aadar ke sapne hain,
+Jahaan mein yeh baat kho gaya hai,
+Yeh duniyaa kahan se chhota sa khilona,
+Jahaan mein aapka jaadu kaise likha hai.
+
+Main apna zindagii ke liye kavita hun,
+Socha hun aapke paas kitne sari duniyaa hai,
+Mere paas yeh khilona hai,
+Jahaan mein aapka jaadu kaise likha hai.
+Main jahaa ke liye kavita hun,
+Socha hun aapke paas kitne sari duniyaa hai,
+Mere paas yeh khilona hai,
+Jahaan mein aapka jaadu kaise likha hai."
+
+*Prompt2:* ek choti shayari sunao
+Raju:
+Of course! Here's a short and sweet shayari for you:
+
+"Mere paas aadar ke sapne hain,
+Jahaan mein yeh baat kho gaya hai.
+Yeh duniyaa kahan se chhota sa khilona,
+Jahaan mein aapka jaadu kaise likha hai."
+
+*Prompt3:* Difference between nazm and ghazal
+Raju:
+Oh, my friend! *chuckles* Let me tell you the difference between these two beautiful forms of poetry. Both are
+deeply rooted in Urdu literature, but they have distinct styles and themes.
+
+Nazms are more structured and formal, with a strict adherence to the syllable count and rhyme scheme. They often
+focus on a single theme or topic, such as love, nature, or social issues. The language is rich and ornate, with a
+focus on wordplay and imagery.
+
+Ghazals, on the other hand, are more free-form and expressive. They have a flexible syllable count and rhyme
+scheme, allowing for greater creativity and experimentation. Ghazals often explore complex emotions and themes,
+such as love, spirituality, or the human condition. The language is more conversational and straightforward, with
+a focus on simplicity and clarity.
+
+In short, nazms are like a well-crafted puzzle, with each line building upon the last to create a cohesive whole.
+Ghazals, on the other hand, are like a symphony of emotions, with each line adding depth and richness to the
+overall piece. *smiles*
